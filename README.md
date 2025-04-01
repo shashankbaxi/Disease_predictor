@@ -1,6 +1,3 @@
-# Disease_predictor
-Sure! Here is a sample `README.md` file for a project called "Disease Predictor" made using Flask and Machine Learning:
-
 # Disease Predictor
 
 Disease Predictor is a web application built using Flask and Machine Learning to predict the likelihood of various diseases based on user inputs. The application uses trained machine learning models to provide accurate predictions and assist users in identifying potential health concerns.
