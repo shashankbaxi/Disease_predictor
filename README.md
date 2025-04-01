@@ -8,12 +8,12 @@ It's an end-to-end Machine Learning Project. The purpose of this project is to p
 Visit: https://multiple-disease-predictor-ml.herokuapp.com/  (This link might not work if the Heroku will discontinue its Free tier/plan, in that case, please scroll down and see how this deployed web app looks like on Heroku)
 
 
-### Screenshots (of This Web App When it is Live On Heroku)
+### Screenshots 
 
 **Home Page**
 
 
-![HomePage](https://user-images.githubusercontent.com/109678911/204099558-56535854-14dd-43c6-83f4-ba7ee329662d.PNG)
+Screenshot_1-4-2025_17407_127.0.0.1
 
 
 **Diabetes Prediction Page**
